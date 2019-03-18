@@ -6,7 +6,12 @@ namespace DependencyInjection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            EventLog writer = new EventLog();
+            EmailSender sender = new EmailSender();
+            AppPoolWatcher watcher = new AppPoolWatcher();
+            watcher.Notify(writer, "IIS przestał odpowiadać");
+            //watcher.Notify(sender, "Wysyłanie wiadomości do Admina.");
         }
     }
 }
