@@ -1,0 +1,16 @@
+﻿WARNING !
+IIS przestał odpowiadać
+Data i czas: 08.01.2019 18:42:25
+
+WARNING !
+IIS przestał odpowiadać
+Data i czas: 08.01.2019 18:42:27
+
+WARNING !
+IIS przestał odpowiadać
+Data i czas: 08.01.2019 18:42:28
+
+WARNING !
+IIS przestał odpowiadać
+Data i czas: 08.01.2019 18:42:29
+

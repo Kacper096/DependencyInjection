@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Unity" Version="5.10.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DP_Cars">
+      <HintPath>..\DP_Cars\bin\Debug\netcoreapp2.1\DP_Cars.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,9 @@
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\bin\Debug\netcoreapp2.1\DP_Cars.deps.json
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\bin\Debug\netcoreapp2.1\DP_Cars.dll
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\bin\Debug\netcoreapp2.1\DP_Cars.pdb
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\obj\Debug\netcoreapp2.1\DP_Cars.csproj.CoreCompileInputs.cache
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\obj\Debug\netcoreapp2.1\DP_Cars.AssemblyInfoInputs.cache
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\obj\Debug\netcoreapp2.1\DP_Cars.AssemblyInfo.cs
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\obj\Debug\netcoreapp2.1\DP_Cars.dll
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\obj\Debug\netcoreapp2.1\DP_Cars.pdb
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DP_Cars\obj\Debug\netcoreapp2.1\DP_Cars.csprojAssemblyReference.cache

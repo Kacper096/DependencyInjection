@@ -1,0 +1,14 @@
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.deps.json
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.runtimeconfig.json
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.runtimeconfig.dev.json
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.dll
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.pdb
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.csprojAssemblyReference.cache
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.AssemblyInfoInputs.cache
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.AssemblyInfo.cs
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.dll
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.pdb
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DP_Cars.dll
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DP_Cars.pdb
+D:\Kacper\Documents\Visual Studio\C#\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.csproj.CopyComplete
